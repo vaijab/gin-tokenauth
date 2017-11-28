@@ -5,7 +5,7 @@ TokenAuth is a authorization middleware for [gin](https://github.com/gin-gonic/g
 ## Installation
 
 ```
-go get github.com/orendo/gin-tokenauth
+go get github.com/vaijab/gin-tokenauth
 ```
 
 ## Usage
@@ -20,8 +20,8 @@ import (
 	"log"
 
 	"github.com/gin-gonic/gin"
-	"github.com/orendo/gin-tokenauth"
-	"github.com/orendo/gin-tokenauth/filestore"
+	"github.com/vaijab/gin-tokenauth"
+	"github.com/vaijab/gin-tokenauth/filestore"
 )
 
 func main() {

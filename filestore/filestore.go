@@ -31,7 +31,7 @@ import (
 	"github.com/fsnotify/fsnotify"
 	"gopkg.in/yaml.v2"
 
-	"github.com/orendo/gin-tokenauth"
+	"github.com/vaijab/gin-tokenauth"
 )
 
 // Store is a file based token store.
